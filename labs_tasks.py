@@ -1,9 +1,5 @@
 import random
-from typing import List, Optional
-import sys
-import tty
-import termios
-import os
+import sys, tty, termios, os
 
 
 def read_single_keypress():
